@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Birthdayapp</string>
+    <string name="name">Name  :-  Amit Kumar</string>
+    <string name="Class">Studying  :-  B.Tech(CSE)</string>
+    <string name="place">From  :-  Bihar</string>
+    <string name="Universe">University  :-  LPU</string>
+    <string name="Birthday">Birthday  :-  28-04-1998</string>
+    <string name="intro">BirthdayCard</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="submit">submit</string>
+    <string name="cancel">cancel</string>
+    <string name="copy">Copyright @amitkumar</string>
+</resources>
